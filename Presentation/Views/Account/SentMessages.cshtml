@@ -1,0 +1,66 @@
+﻿@model Presentation.Models.SearchFilter
+
+@{
+    ViewBag.Title = "Sent Messages";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <table class="table table-responsive table-bordered table-hover">
+        <thead>
+            <tr>
+                <th class="text-center">
+                    Contact Name
+                </th>
+                <th class="text-center">
+                    Time
+                </th>
+                <th class="text-center">
+                    OTP
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (ViewBag.Contacts != null)
+            {
+                foreach (var item in ViewBag.Contacts)
+                {
+                    string Name = item.FirstName + " " + item.LastName;
+                    <tr>
+                        <td class="text-center">
+                            @Name
+                        </td>
+                        <td class="text-center">
+                            @item.Time
+                        </td>
+                        <td class="text-center">
+                            @item.Message.Split(':')[1]
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr><td colspan="3">No Record Found</td></tr>
+            }
+
+        </tbody>
+    </table>
+    @*@if (ViewBag.TotalIndexes != null)
+    {
+        <div class="row text-center" style="margin-bottom:20px">
+            @{
+                int RowCount = 13;
+                int AdditionalPage = 0;
+                int TotalIndexes = ViewBag.TotalIndexes;
+                if (TotalIndexes % RowCount > TotalIndexes)
+                {
+                    AdditionalPage = 1;
+                }
+                int TotalPages = (TotalIndexes / RowCount == 0) ? AdditionalPage + 1 : TotalIndexes / RowCount + AdditionalPage;
+                int CurrentPage = (Model.EndIndex / RowCount);
+            }
+            Page @CurrentPage / @TotalPages
+        </div>
+    }*@
+</div>

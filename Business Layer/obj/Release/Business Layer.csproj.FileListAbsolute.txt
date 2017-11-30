@@ -1,0 +1,22 @@
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Business Layer.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Business Layer.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\DataLayer.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\DataObjects.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Log.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\log4net.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Microsoft.IdentityModel.Logging.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Newtonsoft.Json.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Twilio.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\DataLayer.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\DataObjects.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Log.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\log4net.xml
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Microsoft.IdentityModel.Tokens.xml
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Newtonsoft.Json.xml
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\bin\Release\Twilio.xml
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\obj\Release\Business Layer.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\obj\Release\Business Layer.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Business Layer\obj\Release\Business Layer.pdb

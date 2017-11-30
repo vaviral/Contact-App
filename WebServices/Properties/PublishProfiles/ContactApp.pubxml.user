@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\HP\Desktop\ContactApp\Services</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="ApplicationInsights.config">
+      <publishTime>06/29/2017 01:45:03</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>06/29/2017 01:45:03</publishTime>
+    </File>
+    <File Include="bin/Business Layer.dll">
+      <publishTime>07/01/2017 12:22:12</publishTime>
+    </File>
+    <File Include="bin/DataLayer.dll">
+      <publishTime>07/01/2017 12:22:12</publishTime>
+    </File>
+    <File Include="bin/DataObjects.dll">
+      <publishTime>06/30/2017 21:40:32</publishTime>
+    </File>
+    <File Include="bin/Log.dll">
+      <publishTime>07/01/2017 12:22:12</publishTime>
+    </File>
+    <File Include="bin/log4net.dll">
+      <publishTime>03/08/2017 19:26:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>11/30/2016 16:07:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>12/07/2016 11:45:42</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>12/07/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>12/06/2016 15:15:48</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>12/07/2016 11:49:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>12/07/2016 11:50:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>12/06/2016 15:09:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Logging.dll">
+      <publishTime>01/10/2017 15:22:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.IdentityModel.Tokens.dll">
+      <publishTime>01/10/2017 15:23:02</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/18/2017 13:57:10</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>01/10/2017 15:23:06</publishTime>
+    </File>
+    <File Include="bin/Twilio.dll">
+      <publishTime>06/16/2017 16:06:20</publishTime>
+    </File>
+    <File Include="bin/WebServices.dll">
+      <publishTime>07/01/2017 12:22:13</publishTime>
+    </File>
+    <File Include="ContactAppServices.svc">
+      <publishTime>06/29/2017 02:01:24</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/29/2017 01:45:03</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/01/2017 12:22:13</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

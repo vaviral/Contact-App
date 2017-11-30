@@ -1,0 +1,41 @@
+﻿@model Presentation.Models.SearchFilter
+
+@{
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th class="text-center">
+                    Contact Name
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (ViewBag.Contacts != null)
+            {
+                string Name;
+                foreach (var item in ViewBag.Contacts)
+                {
+                    Name = item.FirstName + " " + item.LastName;
+                    <tr>
+                        <td class="text-center">
+                            <a href="@Url.Action("ContactInfo", "Account", new { Contact = item.Contact })" style="cursor:pointer" target="_blank">@Name</a>
+                        </td>
+                    </tr>
+                }
+            }
+            else
+            {
+                <tr>
+                    <td>
+                        No Record Found
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,4 @@
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\DataObjects\bin\Debug\DataObjects.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\DataObjects\bin\Debug\DataObjects.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\DataObjects\obj\Debug\DataObjects.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\DataObjects\obj\Debug\DataObjects.pdb

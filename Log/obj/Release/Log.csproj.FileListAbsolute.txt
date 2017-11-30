@@ -1,0 +1,7 @@
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Log\bin\Release\Log.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Log\bin\Release\Log.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Log\bin\Release\log4net.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Log\bin\Release\log4net.xml
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Log\obj\Release\Log.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Log\obj\Release\Log.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\Log\obj\Release\Log.pdb

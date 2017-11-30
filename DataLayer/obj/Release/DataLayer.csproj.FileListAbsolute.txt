@@ -1,0 +1,13 @@
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\bin\Release\DataLayer.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\bin\Release\DataObjects.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\bin\Release\Log.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\bin\Release\log4net.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\bin\Release\Newtonsoft.Json.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\bin\Release\DataObjects.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\bin\Release\Log.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\bin\Release\log4net.xml
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\bin\Release\Newtonsoft.Json.xml
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\obj\Release\DataLayer.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataLayer\obj\Release\DataLayer.pdb

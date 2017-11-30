@@ -1,0 +1,37 @@
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\obj\Debug\WebServices.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\ApplicationInsights.config
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\WebServices.dll.config
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\WebServices.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\WebServices.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Business Layer.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\DataObjects.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Log.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.AI.Web.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.AI.WindowsServer.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.ApplicationInsights.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\log4net.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\DataLayer.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Twilio.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.IdentityModel.Tokens.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.IdentityModel.Logging.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Business Layer.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\DataObjects.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Log.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.AI.Web.xml
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.AI.WindowsServer.xml
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.ApplicationInsights.xml
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\log4net.xml
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\DataLayer.pdb
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Twilio.xml
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Microsoft.IdentityModel.Tokens.xml
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\obj\Debug\WebServices.dll
+c:\users\hp\documents\visual studio 2015\Projects\SampleContactApp\WebServices\obj\Debug\WebServices.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\WebServices\bin\Newtonsoft.Json.dll

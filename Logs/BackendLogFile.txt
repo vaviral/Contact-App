@@ -1,0 +1,69 @@
+|INFO|2017-07-01 12:21:07,981|28|DataLayer.DAL|Check_File|Creating directory
+|INFO|2017-07-01 12:21:08,088|28|DataLayer.DAL|Check_File|Directory created
+|INFO|2017-07-01 12:21:08,088|28|DataLayer.DAL|Check_File|Creating file CONTACTS.TXT
+|INFO|2017-07-01 12:21:08,089|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:08,089|28|DataLayer.DAL|Check_File|Creating file MESSAGES.TXT
+|INFO|2017-07-01 12:21:08,089|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:08,089|28|DataLayer.DAL|Check_File|Creating file USERS.TXT
+|INFO|2017-07-01 12:21:08,090|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:08,091|28|Business_Layer.BAL|Login|Signing in 8288871108
+|INFO|2017-07-01 12:21:08,223|28|Business_Layer.BAL|Login|Signed in as 8288871108
+|INFO|2017-07-01 12:21:08,324|28|DataLayer.DAL|Check_File|Creating directory
+|INFO|2017-07-01 12:21:08,325|28|DataLayer.DAL|Check_File|Directory created
+|INFO|2017-07-01 12:21:08,325|28|DataLayer.DAL|Check_File|Creating file CONTACTS.TXT
+|INFO|2017-07-01 12:21:08,326|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:08,326|28|DataLayer.DAL|Check_File|Creating file MESSAGES.TXT
+|INFO|2017-07-01 12:21:08,327|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:08,327|28|DataLayer.DAL|Check_File|Creating file USERS.TXT
+|INFO|2017-07-01 12:21:08,328|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:08,328|28|Business_Layer.BAL|CheckApiKeyValidity|Checking ApiKey validity 8288871108
+|INFO|2017-07-01 12:21:08,330|28|Business_Layer.BAL|CheckApiKeyValidity|ApiKey valid
+|INFO|2017-07-01 12:21:08,333|28|DataLayer.DAL|Check_File|Creating directory
+|INFO|2017-07-01 12:21:08,334|28|DataLayer.DAL|Check_File|Directory created
+|INFO|2017-07-01 12:21:08,335|28|DataLayer.DAL|Check_File|Creating file CONTACTS.TXT
+|INFO|2017-07-01 12:21:08,335|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:08,336|28|DataLayer.DAL|Check_File|Creating file MESSAGES.TXT
+|INFO|2017-07-01 12:21:08,336|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:08,337|28|DataLayer.DAL|Check_File|Creating file USERS.TXT
+|INFO|2017-07-01 12:21:08,337|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:08,338|28|Business_Layer.BAL|RetrieveAllCustomer|Retrieving all customers
+|INFO|2017-07-01 12:21:08,341|28|Business_Layer.BAL|RetrieveAllCustomer|list of customer retrieved
+|INFO|2017-07-01 12:21:22,999|28|DataLayer.DAL|Check_File|Creating directory
+|INFO|2017-07-01 12:21:23,000|28|DataLayer.DAL|Check_File|Directory created
+|INFO|2017-07-01 12:21:23,000|28|DataLayer.DAL|Check_File|Creating file CONTACTS.TXT
+|INFO|2017-07-01 12:21:23,003|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:23,004|28|DataLayer.DAL|Check_File|Creating file MESSAGES.TXT
+|INFO|2017-07-01 12:21:23,004|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:23,005|28|DataLayer.DAL|Check_File|Creating file USERS.TXT
+|INFO|2017-07-01 12:21:23,005|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:23,005|28|Business_Layer.BAL|CheckApiKeyValidity|Checking ApiKey validity 8288871108
+|INFO|2017-07-01 12:21:23,006|28|Business_Layer.BAL|CheckApiKeyValidity|ApiKey valid
+|INFO|2017-07-01 12:21:23,008|28|DataLayer.DAL|Check_File|Creating directory
+|INFO|2017-07-01 12:21:23,008|28|DataLayer.DAL|Check_File|Directory created
+|INFO|2017-07-01 12:21:23,008|28|DataLayer.DAL|Check_File|Creating file CONTACTS.TXT
+|INFO|2017-07-01 12:21:23,009|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:23,009|28|DataLayer.DAL|Check_File|Creating file MESSAGES.TXT
+|INFO|2017-07-01 12:21:23,009|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:23,009|28|DataLayer.DAL|Check_File|Creating file USERS.TXT
+|INFO|2017-07-01 12:21:23,010|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:23,010|28|Business_Layer.BAL|RetrieveCustomer|Retrieving customer8288871108
+|INFO|2017-07-01 12:21:24,400|28|DataLayer.DAL|Check_File|Creating directory
+|INFO|2017-07-01 12:21:24,401|28|DataLayer.DAL|Check_File|Directory created
+|INFO|2017-07-01 12:21:24,401|28|DataLayer.DAL|Check_File|Creating file CONTACTS.TXT
+|INFO|2017-07-01 12:21:24,402|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:24,402|28|DataLayer.DAL|Check_File|Creating file MESSAGES.TXT
+|INFO|2017-07-01 12:21:24,402|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:24,403|28|DataLayer.DAL|Check_File|Creating file USERS.TXT
+|INFO|2017-07-01 12:21:24,403|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:24,403|28|Business_Layer.BAL|CheckApiKeyValidity|Checking ApiKey validity 8288871108
+|INFO|2017-07-01 12:21:24,404|28|Business_Layer.BAL|CheckApiKeyValidity|ApiKey valid
+|INFO|2017-07-01 12:21:24,406|28|DataLayer.DAL|Check_File|Creating directory
+|INFO|2017-07-01 12:21:24,407|28|DataLayer.DAL|Check_File|Directory created
+|INFO|2017-07-01 12:21:24,407|28|DataLayer.DAL|Check_File|Creating file CONTACTS.TXT
+|INFO|2017-07-01 12:21:24,407|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:24,408|28|DataLayer.DAL|Check_File|Creating file MESSAGES.TXT
+|INFO|2017-07-01 12:21:24,409|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:24,410|28|DataLayer.DAL|Check_File|Creating file USERS.TXT
+|INFO|2017-07-01 12:21:24,410|28|DataLayer.DAL|Check_File|File created
+|INFO|2017-07-01 12:21:24,411|28|Business_Layer.BAL|GetOTPMessage|GetOTP message called
+|INFO|2017-07-01 12:21:24,412|28|Business_Layer.BAL|GetOTPMessage|OTP sent to presentation

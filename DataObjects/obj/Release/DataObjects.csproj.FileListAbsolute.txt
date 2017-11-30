@@ -1,0 +1,5 @@
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataObjects\bin\Release\DataObjects.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataObjects\bin\Release\DataObjects.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataObjects\obj\Release\DataObjects.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataObjects\obj\Release\DataObjects.dll
+C:\Users\HP\documents\visual studio 2015\Projects\SampleContactApp\DataObjects\obj\Release\DataObjects.pdb

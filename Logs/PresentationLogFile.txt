@@ -1,0 +1,7 @@
+|INFO|2017-07-01 12:20:15,889|68|Presentation.Controllers.AccountController|Login|Viewing Login page
+|INFO|2017-07-01 12:20:36,899|68|Presentation.Controllers.AccountController|Login|Viewing Login page
+|INFO|2017-07-01 12:21:06,063|71|Presentation.Controllers.AccountController|Login|Signing in 8288871108
+|INFO|2017-07-01 12:21:08,312|68|Presentation.Controllers.AccountController|Home|Retrieveing and showing contacts
+|INFO|2017-07-01 12:21:22,966|74|Presentation.Controllers.AccountController|ContactInfo|Getting contact info for 8288871108
+|INFO|2017-07-01 12:21:24,387|68|Presentation.Controllers.AccountController|Compose|Composing new message for 8288871108
+|INFO|2017-07-01 12:21:53,631|73|Presentation.Controllers.AccountController|Logout|Signing out 8288871108

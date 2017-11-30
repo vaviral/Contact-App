@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link href="~/Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="~/Scripts/bootstrap.min.js"></script>
+    <script src="~/Scripts/jquery-3.1.1.min.js"></script>
+    <script src="~/Scripts/jquery.validate.min.js"></script>
+    <script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/Scripts/CustomJS.js"></script>
+</head>
+<body style="min-width:600px">
+    <div>
+        @Html.Partial("_Header")
+    </div>
+    <div>
+        @Html.Partial("_TabMenu")
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+    <div>
+        @Html.Partial("_Footer")
+    </div>
+</body>
+</html>

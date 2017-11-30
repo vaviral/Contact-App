@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "ContactInfo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container-fluid">
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th class="text-center">
+                    Contact Name
+                </th>
+                <th class="text-center">
+                    Contact
+                </th>
+                <th class="text-center">
+                    Action
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (ViewBag.Contacts != null)
+            {
+                string Name = ViewBag.Contacts.FirstName + " " + ViewBag.Contacts.LastName;
+                <tr>
+                    <td class="text-center">
+                        @Name
+                    </td>
+                    <td class="text-center">
+                        @ViewBag.Contacts.Contact
+                    </td>
+                    <td class="text-center">
+                        <a href="@Url.Action("Compose", "Account", new { Contact = ViewBag.Contacts.Contact })" style="cursor:pointer" >Send Message</a>
+                    </td>
+                </tr>
+            }
+            else
+            {
+                <tr>
+                    <td>
+                        No Record Found
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
